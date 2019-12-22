@@ -1,17 +1,17 @@
 {
-	"name": "ibrand/laravel-express",
+	"name": "xiaoyanou/laravel-express",
 	"type": "library",
-	"description": "ibrand laravel express",
+	"description": "xiaoyanou laravel express",
 	"keywords": [
-		"ibrand",
+		"xiaoyanou",
 		"laravel",
 		"express"
 	],
 	"license": "MIT",
 	"authors": [
 		{
-			"name": "tangqi",
-			"email": "tangqi@element.vip"
+			"name": "liusaibao",
+			"email": "liusaibao@xiaoyanou.cn"
 		}
 	],
 	"require": {
